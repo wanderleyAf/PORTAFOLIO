@@ -12,7 +12,7 @@
 # [Project 1: Automate Payment Receipts in Excel](https://www.youtube.com/watch?v=qW3ih96Tnpk)
 ![alt text](firmbee-com-jrh5lAq-mIs-unsplash.jpg)
 
-link: <a href="https://www.linkedin.com/in/wanderley-a-58a20014a/"> </a>
+link: <a href="https://www.linkedin.com/in/wanderley-a-58a20014a/"> linkedingg</a>
   
   
 
