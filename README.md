@@ -12,7 +12,7 @@
 # [Project 1: Automate Payment Receipts in Excel](https://www.youtube.com/watch?v=qW3ih96Tnpk)
 ![alt text](firmbee-com-jrh5lAq-mIs-unsplash.jpg)
 
-Photo by <a href="https://unsplash.com/@firmbee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Firmbee.com</a> on <a href="https://unsplash.com/s/photos/automate-reports?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+link: <a href="https://www.linkedin.com/in/wanderley-a-58a20014a/"> </a>
   
   
 
