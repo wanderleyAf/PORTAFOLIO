@@ -1,16 +1,12 @@
 # PORTAFOLIO
-# About Me
-*Working in Business Intelligence and creating educational content*
+# ACERCA DE MI
+*1 Año como Analista BI y 2 años como Analista de Datos*
 
-# Education
-* Professional in Business Administration, 2014-2019
+# Educacion
+* Bachiller en Ingenieria de sistemas, 2013-2019
 
-# YouTube Channel
-* **The Link of my YouTube channel is the following:** https://www.youtube.com/channel/UCAdEr61O-jMY0SyzApo91iA
-
-# Links Page:
-* https://cjd1011-links-page-streamlit-app-rn3uxa.streamlitapp.com/
-
+# Linkedin:
+* https://www.linkedin.com/in/wanderley-a-58a20014a/
 # My Best Projects!!
 
 # [Project 1: Automate Payment Receipts in Excel](https://www.youtube.com/watch?v=qW3ih96Tnpk)
